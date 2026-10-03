@@ -1,0 +1,4 @@
+threshold,true_positives,false_negatives,false_positives,true_negatives,fraud_recall,fraud_precision
+0.3,70,25,3,56648,0.7368,0.9589
+0.4,69,26,3,56648,0.7263,0.9583
+0.5,68,27,2,56649,0.7158,0.9714
